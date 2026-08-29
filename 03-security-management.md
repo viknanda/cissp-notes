@@ -64,7 +64,7 @@ An exposure is an instance of being exposed to losses from a threat agent. A vul
 
 A countermeasure, or safeguard, mitigates the potential risk. A countermeasure is a software configuration, hardware, or procedure that eliminates a vulnerability or reduces the risk of a threat agent from being able to exploit a vulnerability.
 
-Threat Agent --- gives rise to ---> Threat --- exploits ---> Vulnerability --- leads to ---> Risk --- can damage ---> Asset --- and causes an ---> Exposure --- can be countermeasured by ---> Safeguard A security program should use a top-down approach, meaning that the initiation, support and direction come from top managementr and work their way through middle management and then to staff members.
+Threat Agent --- gives rise to ---> Threat --- exploits ---> Vulnerability --- leads to ---> Risk --- can damage ---> Asset --- and causes an ---> Exposure --- can be countermeasured by ---> Safeguard A security program should use a top-down approach, meaning that the initiation, support and direction come from top management and work their way through middle management and then to staff members.
 
 In contrast, a bottom-up approach would be if the IT department tried to develop a security program without getting proper management support and direction.
 
@@ -72,13 +72,13 @@ A bottom-up approach is usually less effective, not broad enough and doomed to f
 
 A top-down approach makes sure that the people actually responsible for protecting the company's assets are driving the program.
 
-An organizational security model is a framework made up of many entities, protection mechanisms, logical and physical components, procedures and configurations that ll work together in a synergistic way to provide a security level for an environment.
+An organizational security model is a framework made up of many entities, protection mechanisms, logical and physical components, procedures and configurations that all work together in a synergistic way to provide a security level for an environment.
 
 All models work in layers: one layer providing support for the layer above it and protection for the layer below it.
 
 The goal of a security model is assurance, which is the sum total of all security components within an environment that provide a level of confidence.
 
-Dail goals are also known as operational goals.
+Daily goals are also known as operational goals.
 
 Mid-term goals are also referred to as tactical goals.
 
@@ -86,7 +86,7 @@ Goals that require a farther look into the future are strategic goals.
 
 Risk management is the process of identifying, assessing and reducing this risk to an acceptable level and implementing the right mechanisms to maintain that level of risk.
 
-Physical damage – fire, water, vandalism, power loss and natural disasters Human error – accidental or intentional action or inaction that can disrupt productivity Equipment malfunction – failure of systems and peripheral devices Inside and outside attacks – hacking, cracking and attacking Misuse of data – sharing trade secrets, fraud, espionage, and theft Loss of data – intentional or unintentional loss of information through destrcutive means Application error – comptation errors, input errors and buffer overflows Risk analysis is a method of identifying risks and assessing the possible damage in order to justify security safeguards. It is used to ensure that security is cost-effective, relevant, timely and responsive to threats.
+Physical damage – fire, water, vandalism, power loss and natural disasters Human error – accidental or intentional action or inaction that can disrupt productivity Equipment malfunction – failure of systems and peripheral devices Inside and outside attacks – hacking, cracking and attacking Misuse of data – sharing trade secrets, fraud, espionage, and theft Loss of data – intentional or unintentional loss of information through destructive means Application error – computation errors, input errors and buffer overflows Risk analysis is a method of identifying risks and assessing the possible damage in order to justify security safeguards. It is used to ensure that security is cost-effective, relevant, timely and responsive to threats.
 
 Risk analysis has four main goals:
 
@@ -120,13 +120,13 @@ The following issues should be considered when assigning values to assets:
 
 - liability issues if the asset is compromised
 
-- usefullness of the asset Threat agent --- can exploit this vulnerability --- resulting in this threat Cascading errors occur as invalid results are passed on to another process.
+- usefulness of the asset Threat agent --- can exploit this vulnerability --- resulting in this threat Cascading errors occur as invalid results are passed on to another process.
 
 Risks have loss potential, meaning what the company would lose if a threat agent actually exploits a vulnerability.
 
 Delayed loss has negative effects on a company after a vulnerability is initially exploited.
 
-Quantitative risk analysis attempts to assign real and meaningful numbers t oall elements of the risk analysis process.
+Quantitative risk analysis attempts to assign real and meaningful numbers to all elements of the risk analysis process.
 
 Componenet that make up a risk analysis:
 
@@ -170,7 +170,7 @@ g) Calculate the single loss expectancy (SLE) for each risk.
 
 3. Perform a threat analysis a) Gather information about the likelihood of each risk taking place from people in each department, past records and official security resources that provide this type of data.
 
-b) Calculate the probabilityof occurrence for each threat identified.
+b) Calculate the probability of occurrence for each threat identified.
 
 c) Calculate the annualized rate of occurrence (ARO), which is how many times each threat could happen in a year.
 
@@ -192,7 +192,7 @@ a) Risk reduction methods.
 
 - Provide early detection methods to catch the threat as it's happening and reduce the possible damage it can cause.
 
-- Produce a contingency plan of how business can continue if specific threat taks place, reducing extending damages of the threat.
+- Produce a contingency plan of how business can continue if specific threat takes place, reducing extending damages of the threat.
 
 - Erect barriers to the threat. b) Risk assignment.
 
@@ -206,7 +206,7 @@ SLE x ARO = ALE The annualized rate of occurrence (ARO) is the value that repres
 
 The Delphi technique is a qualitative risk analysis method and is a group decision method used to ensure that each member gives an honest opinion of what he or she thinkgs the result to a particular threat will be.
 
-Cost/benefit calculation for a given safguard is:
+Cost/benefit calculation for a given safeguard is:
 
 [ALE before implementing safeguard] – [ALE after implementing safeguard] – [annual cost of safeguard] = value of safeguard to company.
 
@@ -242,7 +242,7 @@ Items that need to be considered and evaluated when deriving the full cost of a 
 
 In an organizational security policy, management establishes how a security program will be set up, lays out the program's goals, assigns responsibilities, shows the strategic and tactical value of security, and outlines how enforcement should be carried out.
 
-Issue-specific policies, also called functional implementing policies, address specific security issues that management feels need more detailed explanation and attention o make sure a comprehensive structure is built and all employees understand how they are to comply to these security issues.
+Issue-specific policies, also called functional implementing policies, address specific security issues that management feels need more detailed explanation and attention to make sure a comprehensive structure is built and all employees understand how they are to comply to these security issues.
 
 A system-specific policy presents the management's decisions that are closer to the actual computers, networks, applications and data.
 
@@ -256,7 +256,7 @@ Advisory policy – written to strongly suggest certain types of behaviors and a
 
 Informative policy – written to inform employees of certain topics. It is not an enforceable policy, but one to teach individuals about specific issues relevant to the company. It could explain how the company interacts with partners, the company's goals and mission and a general reporting structure in different situations.
 
-Organizational security standards specify how hardware and software products are t obe used. They can also be used to indicate expected user behavior. They provide a means to ensure that specific technologies, applications, parameters, and procedures are carried out in a uniform way across the organization.
+Organizational security standards specify how hardware and software products are to be used. They can also be used to indicate expected user behavior. They provide a means to ensure that specific technologies, applications, parameters, and procedures are carried out in a uniform way across the organization.
 
 Baselines provide the minimum level of security necessary throughout the organization. A consistent baseline needs to be established before the security architecture can be properly developed. When standards are implemented and followed properly, they provide a baseline of security. In this sense baselines can be considered the abstraction of standards.
 
@@ -316,7 +316,7 @@ ensure the integrity of the data by - details of projects protecting it from una
 
 - Data owner: determines data classification of information within the organization
 
-- Data custodian: maintains data in ways to preserve and protectits confidentiality, integrity and availability
+- Data custodian: maintains data in ways to preserve and protect its confidentiality, integrity and availability
 
 - User: uses data for data-processing tasks
 
