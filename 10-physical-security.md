@@ -1,14 +1,14 @@
 # Physical Security
 
-Physical security is concerned with hot people can physically enter an environment, how environmental issues affect the systems, or what type of intrusion detection system is best for a particular facility.
+Physical security is concerned with how people can physically enter an environment, how environmental issues affect the systems, or what type of intrusion detection system is best for a particular facility.
 
-Elecronic access control (EAC) tokens are used in physical security to authenticate subjects. They can be proximity readers, programmable locks, or biometric systems, which identify and authenticate users before allowing them entrance into physically controlled areas.
+Electronic access control (EAC) tokens are used in physical security to authenticate subjects. They can be proximity readers, programmable locks, or biometric systems, which identify and authenticate users before allowing them entrance into physically controlled areas.
 
 A critical-path analysis lists each piece of the infrastructure and what is necessary to keep those pieces healthy and operational. The critical-path analysis lists all pieces of an environment and how they interact and are interdependent.
 
 The critical path is defined as the path that is critical for business functionality. The critical path should be shown in detail with all supporting mechanisms. Redundant paths should be shown and there should be at least one redundant path for every critical path.
 
-Facility management responsibilities start before the building is built, by choosing the right locationo, materials and supporting systems.
+Facility management responsibilities start before the building is built, by choosing the right location, materials and supporting systems.
 
 Physical Security Controls:
 
@@ -74,7 +74,7 @@ Physical Security Controls:
 
 - Possible hazards from surrounding areas
 
-- Accesibility
+- Accessibility
 
 - Road access
 
@@ -90,11 +90,11 @@ Physical Security Controls:
 
 Surfaces that conduct electricity, even static electricity, should be avoided in places where sensitive electrical devices are used. Carpet may be acceptable in employee work areas, but it should not be used in server rooms or wiring closets.
 
-Data centers should not be located on the top floors in case of a fire. Data centers should not be located in basements, so that flooding does not become a problem. Data centers should be locatd at the core of a building to provide protection from natural disasters or bombs and to provide easier access to emergency crews if necessary. They should be in semi-secluded areas to limit their accessibility.
+Data centers should not be located on the top floors in case of a fire. Data centers should not be located in basements, so that flooding does not become a problem. Data centers should be located at the core of a building to provide protection from natural disasters or bombs and to provide easier access to emergency crews if necessary. They should be in semi-secluded areas to limit their accessibility.
 
 Only one way in and out to the secure areas and no other entries should be available. If fire codes dictate, then there should be no more than two entries; one entry point should only be used for emergencies and should sound an alarm if opened.
 
-The main threats that physica l security combats are theft, interruptions to services, physical damage, compromised system integrity and unauthorized disclosure of information.
+The main threats that physical security combats are theft, interruptions to services, physical damage, compromised system integrity and unauthorized disclosure of information.
 
 A cost analysis of vendor service level agreements, possibly obtaining redundant hardware, the MTTR and MTBF values, and the cost expectancy of critical hardware needs to be done to make the most useful decisions.
 
@@ -162,7 +162,7 @@ Preventive Measures and Good Practices with electrical power issues:
 
 - Connect all systems to the same power line if possible (this reduces noise and provides a common ground).
 
-- Do no plug outlet strips and extension cords into each other.
+- Do not plug outlet strips and extension cords into each other.
 
 During facility construction, make certain that water, steam and gas lines have proper shutoff valves and positive drains, which means their contents flow out instead of in.
 
@@ -186,9 +186,9 @@ Smoke detectors should be placed below raise floors, on and above suspended ceil
 
 Wiring and cables are strung through areas called plenum areas. These are in the drop-down ceilings, in the walls and under raised floors. Fire detectors should be in these places and plenum-rated cabling should be used here. Plenum-rated cabling is made out of material that does not let off hazardous gases if it burns.
 
-If an agent uses carbon dioxide, it should have a delay mecchanism within it. The delay mechanism would make sure that the agent does not start applying carbon dioxide to the area until an audible alarm has sounded and people have been given time to evacuate. Carbon dioxide is a colorless, odorless subtance that is potentially lethal because it removes oxygen from the air.
+If an agent uses carbon dioxide, it should have a delay mechanism within it. The delay mechanism would make sure that the agent does not start applying carbon dioxide to the area until an audible alarm has sounded and people have been given time to evacuate. Carbon dioxide is a colorless, odorless substance that is potentially lethal because it removes oxygen from the air.
 
-Fire Class Type of Fire Elements of Fire Suppression Method A Common combustibles Wood products, paper and Water or soda acid laminates B Liquid Pertoleum products and Gas (halon), carbon dioxide coolants or soda acid C Electrical Electrical equipment and wires Gas (halon) or carbon dioxide D Combustible metals Magnesium, sodium, potassium Dry powder Combustion Elements Suppression Methods How Suppression Works Fuel Soda acid Removed fuel Oxygen Carbon dioxide Removes oxygen Temperature Water Reduces temperature Chemical combustion Gas – halon or halon susbtance Interferes with the chemical reactions between elements Production of Halon has been stopped because it has ozone-depleting substances within it. The most effective replacement for Halon is FM-200, which is similar to Halon but does not damage the ozone.
+Fire Class Type of Fire Elements of Fire Suppression Method A Common combustibles Wood products, paper and Water or soda acid laminates B Liquid Petroleum products and Gas (halon), carbon dioxide coolants or soda acid C Electrical Electrical equipment and wires Gas (halon) or carbon dioxide D Combustible metals Magnesium, sodium, potassium Dry powder Combustion Elements Suppression Methods How Suppression Works Fuel Soda acid Removed fuel Oxygen Carbon dioxide Removes oxygen Temperature Water Reduces temperature Chemical combustion Gas – halon or halon substance Interferes with the chemical reactions between elements Production of Halon has been stopped because it has ozone-depleting substances within it. The most effective replacement for Halon is FM-200, which is similar to Halon but does not damage the ozone.
 
 EPA-approved replacements for Halon:
 
@@ -214,7 +214,7 @@ In dry pipe systems, the water is not actually held in the pipes, but is held by
 
 Heat or smoke sensor activated --> Water fills the pipes leading to the sprinklers --> Fire alarm sounds --> Electrical power supply is disconnected --> Water is then allowed to flow from the sprinklers These pipes are best used in colder climates because the pipes will not freeze.
 
-Preaction systems combine the use of wet and dry pipe systems. Water is not held in th pipes and is only released into the pipes once a predefined temperature is reached. Once this temperature is met, the pipes are filled with water, but do not release right away. A link has to melt before the water is released from the sprinkler head. The purpose of combining these two techniques is to be able to react faster to false alarsm or to small fires that can be handled by other means.
+Preaction systems combine the use of wet and dry pipe systems. Water is not held in the pipes and is only released into the pipes once a predefined temperature is reached. Once this temperature is met, the pipes are filled with water, but do not release right away. A link has to melt before the water is released from the sprinkler head. The purpose of combining these two techniques is to be able to react faster to false alarms or to small fires that can be handled by other means.
 
 A deluge system is the same as a dry pipe system, except the sprinkler head is open. In a dry pipe system the sprinkler head is closed and must open to allow water to escape. In the deluge systems, the heads are open to allow a larger volume of water to be released in a shorter period.
 
@@ -228,7 +228,7 @@ Emergency Response and Procedures
 
 - Integration with disaster plans
 
-- Easily accesible documented procedures for different types of emergencies
+- Easily accessible documented procedures for different types of emergencies
 
 - Periodic equipment tests A physical security control that is used to ensure that the bad guys do not get in needs to allow the good guys to get out during a fire or similar emergency. A person's life always takes precedence.
 
@@ -240,17 +240,17 @@ The following are some options available on many cipher locks that improve the p
 
 - Door delay – if a door is held open for a given time, an alarm will trigger to alert personnel of suspicious activity
 
-- Key-override – a specific combination can be programmedto be used in emergency situations to override normal procedures or for supervisory overrides
+- Key-override – a specific combination can be programmed to be used in emergency situations to override normal procedures or for supervisory overrides
 
 - Master-keying – this option enables supervisory personnel to change access codes and other features of the cipher lock
 
-- Hostage alarm – if an individual is under duress and/or held hosage, a combination he enters can communicate this situation to the guard station and/or police station Cipher locks should have a visibility shield to prevent eavesdropping by a bystander. Automated cipher locks must also have a backup battery system and be set to unlock during a power failure so personnel are not trapped inside during an emergency.
+- Hostage alarm – if an individual is under duress and/or held hostage, a combination he enters can communicate this situation to the guard station and/or police station Cipher locks should have a visibility shield to prevent eavesdropping by a bystander. Automated cipher locks must also have a backup battery system and be set to unlock during a power failure so personnel are not trapped inside during an emergency.
 
 Wireless Proximity Readers User Activated – user swipes a card through the reader. The proximity card transmits a sequence of values to the reader. The reader is expecting a specific sequence and if what is sent to it matches this preset value, then the individual is given access.
 
 System Sensing – the system-sensing proximity card will recognize the presence of an approaching object within a specific area. A system-sensing access control system is a device that does not require the individual to enter any sequence or perform any action.
 
-Transponders – the crd and reader have a receiver, transmitter and battery. The reader sends signals to the card to request information. The card sends the reader an access code.
+Transponders – the card and reader have a receiver, transmitter and battery. The reader sends signals to the card to request information. The card sends the reader an access code.
 
 Passive devices – the card is considered passive because it does not have any power source of its own, but uses power from the reader. If it is a passive device, the card can sense the electromagnetic field, which is transmitted by the reader.
 
@@ -268,7 +268,7 @@ Critical areas should have fences at least eight feet high to provide the proper
 
 Perimeter Intrusion Detection and Assessment System (PIDAS) is a type of fencing that has sensors on the wire mesh and at the base of the fence. It is used to detect if someone attempts to cut or climb the fence. It has a passive cable vibration sensor that sets off an alarm if an intrusion is detected. They are very sensitive and can cause many false alarms.
 
-Lightin is a physical control that provides preventive and deterrent protection. NIST standard pertaining to perimeter protection states that critical areas should be illuminated eight feet high and use two-foot candles.
+Lighting is a physical control that provides preventive and deterrent protection. NIST standard pertaining to perimeter protection states that critical areas should be illuminated eight feet high and use two-foot candles.
 
 Detection Techniques:
 
