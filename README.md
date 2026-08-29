@@ -1,1 +1,1 @@
-Study notes for the ten CISSP domains.
+Study notes for the ten CISSP domains. These notes go back to 2006, so take them with a grain of salt.
