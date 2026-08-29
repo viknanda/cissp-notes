@@ -4,11 +4,11 @@ Rotation of duties definition – Interrupt opportunity to create collusion to s
 
 Operational assurance concentrates on the architecture of the product, embedded features and functionality that enable a customer to continually obtain the necessary level of protection when using the product.
 
-Lifecycle assurance pertains to how the product was developed and maintained. Eac hstage of the product's lifecycle has standards and expectations it must fulfill before it can be deemed a highly trustd product.
+Lifecycle assurance pertains to how the product was developed and maintained. Each stage of the product's lifecycle has standards and expectations it must fulfill before it can be deemed a highly trusted product.
 
 A clipping level refers to a baseline for violation activities that may be normal for a user to commit before alarms are raised.
 
-Security controls and mechanims that are in place should have a degree of transparency. This enables the user to perform tasks and duties without having to go through extra steps because of the presence of the security controls. Transparency also does not let the user know too much about the controls, which helps prevent him from figuring out how to circumvent them.
+Security controls and mechanisms that are in place should have a degree of transparency. This enables the user to perform tasks and duties without having to go through extra steps because of the presence of the security controls. Transparency also does not let the user know too much about the controls, which helps prevent him from figuring out how to circumvent them.
 
 Change control is the management of security features and a level of assurance provided through the control of the changes made to the system's hardware, software and firmware configurations through the development and operational lifecycle.
 
@@ -54,7 +54,7 @@ Simple Mail Transfer Protocol (SMTP) works as a message transfer agent.
 
 Post Office Protocol (POP) is an Internet mail server protocol that supports incoming and outgoing messages. The mail server using POP stores and forwards email messages and works with SMTP to move messages between mail servers. This system is useful because the messages will be held on the mail server until users are ready to download their messages.
 
-Internet Messaga Access Protocol (IMAP) is also an Internet protocol that enables users to access mail on a mail server. IMAP as more capabilities and functionality than POP. IMAP is a store-and -forward mail server protocol that is considered POP's successor. IMAP also gives administrators more capabilities when it comes to administering and maintaining the user's messages.
+Internet Message Access Protocol (IMAP) is also an Internet protocol that enables users to access mail on a mail server. IMAP as more capabilities and functionality than POP. IMAP is a store-and-forward mail server protocol that is considered POP's successor. IMAP also gives administrators more capabilities when it comes to administering and maintaining the user's messages.
 
 Mail servers use a relay agent to send a message from one mail server to another. This needs to be properly configured so that a company's mail server is not used by another for spamming activity.
 
