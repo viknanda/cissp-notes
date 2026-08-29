@@ -8,7 +8,7 @@ Recovery planning involves developing a plan and preparing for disaster before i
 
 Availability is extremely important in business continuity. Planning needs to include getting the right people to the right places, documenting the necessary configurations and making sure a redundant power supply is available.
 
-Business continuity should be a part of the security policy and program and not an entity that stands off in a corner by itself. If it is properly integrated with other security issues, it has a better chance of being continually updated an improved upon. This can help ensure that security is thought of in each step of the business and disaster plans. Business continuity is a foundational piece of an effective security program.
+Business continuity should be a part of the security policy and program and not an entity that stands off in a corner by itself. If it is properly integrated with other security issues, it has a better chance of being continually updated and improved upon. This can help ensure that security is thought of in each step of the business and disaster plans. Business continuity is a foundational piece of an effective security program.
 
 Business impact analysis (BIA) is a crucial first step in business continuity planning. A BIA is performed at the beginning of business continuity planning to identify the areas that would suffer the greatest financial or operational loss in the event of a disaster or disruption. It identifies the company's critical systems needed for survival and estimates the outage time that can be tolerated by the company as a result of a disaster or disruption.
 
@@ -70,7 +70,7 @@ Goals --- guide ---> Strategies --- guide ---> Actions --- accomplish ---> Goals
 
 - Priorities – it is extremely critical to know what is critical versus what is nice to have. Priorities of departments, systems, information and programs must be established. The general priorities must be set by the management with the help of the different departments and IT staff.
 
-- Implementation and testing – once a continuity plan is developed, it actually has to be put into action. It needs to be documented and put in places that are easily accssible in times of crisis. Dry runs and testing need to be done to walk people through different situations.
+- Implementation and testing – once a continuity plan is developed, it actually has to be put into action. It needs to be documented and put in places that are easily accessible in times of crisis. Dry runs and testing need to be done to walk people through different situations.
 
 Phases of a Continuity Plan Project Initiation --> Business Impact Analysis --> Strategy Development --> Plan Development --> Implementation --> Testing <---> Maintenance The main plan must be enterprise-wide. In large corporations, individual departments should have their own disaster recovery and continuity plans because it would be hard to create one large plan that would provide enough granularity to be useful to each and every department. Each department's plan is then integrated with other departments' plans into the overall recovery plan for the company.
 
@@ -96,7 +96,7 @@ Management's responsibilities:
 
 - Outlining which departments, systems and processes must be up and running before any others
 
-- Developing procedures and steps in resumingbusiness after a disaster Format of the plan will depend on the environment, goals of the plan, priorities and identified risks. After each of these items has been examined and documented, the plan can be divided into four categories: end-user environment, backup alternatives, recovery and restoration.
+- Developing procedures and steps in resuming business after a disaster Format of the plan will depend on the environment, goals of the plan, priorities and identified risks. After each of these items has been examined and documented, the plan can be divided into four categories: end-user environment, backup alternatives, recovery and restoration.
 
 Plan should be updated by taking the following actions:
 
@@ -136,7 +136,7 @@ Nondisaster – a disruption in service as a result from a device malfunction or
 
 - Warm Site – these facilities are usually configured with some equipment, but not the actual computers.
 
-A warm site is usually a hot site without the expensive equipment. It is less expensive than a hot site and can be up and running within an acceptable time period. It may be a better choice for companies that depend upon proprietary and unusual hardward and software because they will be bringing their own hardware and software with them to the site after the disaster hits. Annual testing is not available with warm site contracts.
+A warm site is usually a hot site without the expensive equipment. It is less expensive than a hot site and can be up and running within an acceptable time period. It may be a better choice for companies that depend upon proprietary and unusual hardware and software because they will be bringing their own hardware and software with them to the site after the disaster hits. Annual testing is not available with warm site contracts.
 
 - Cold Site – these facilities supply the basic environment, electrical wiring, air conditioning, plumbing and flooring, but it may take weeks to get the site activated and ready for work. The cold site can receive equipment but does not provide any. It is the least expensive option, but will take the most time and effort to actually get up and running right after a disaster.
 
@@ -180,7 +180,7 @@ Important data should be backed up to an onsite area and an offsite area.
 
 Onsite backup information should be stored in a fire-resistant safe. The procedures for backing up and restoring data should be easily accessible and comprehensible.
 
-Master files should be updated an sensible intervals and transaction files should be preserved to coincide with those master files.
+Master files should be updated at sensible intervals and transaction files should be preserved to coincide with those master files.
 
 A disk-shadowing subsystem uses two physical disks and the data is written to both at the same time for redundancy purposes. This subsystem performs data-mirroring functionality. If one disk fails the other is readily available.
 
